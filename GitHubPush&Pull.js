@@ -8,7 +8,11 @@
  * Create a respository on github
  * Click New > Repository Name > Select Public > Click on Create Repository on github and copy the url 
  * Go to VS Code and open project/folder > go to source control an click on the git icon 
- * > go to setting and check git enabled 
+ * Go to setting and check git icon enabled 
+ * Give commit message and commit the changes 
+ * Add remote repo with url (github repo)
+ * Push commited changes to github repository 
+ * 
  * 
  * 
  * 
@@ -18,7 +22,7 @@
  * 
  * 
  * 
- * How to clone form github to vscode 
+ * How to clone from github to vscode 
  * 
  * 
  * 
