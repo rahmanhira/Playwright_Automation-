@@ -1,6 +1,7 @@
 /********* VS Code - How to use Git & Github **
  * 
- * How to add an existing vscode project to git or github
+ * How to add an existing vscode project to git or github 
+ * How to do commit and push whenever changes happen
  * 
  * Install git into your system
  * check git into your system via command line - git --version
@@ -14,15 +15,16 @@
  * Push commited changes to github repository 
  * 
  * 
+ *  How to clone from github to vscode 
+ * 
+ * Go to source control 
+ * Go to view and click on command palette 
+ * Type git clone and press enter 
+ * Paste git url and press enter 
+ * Select a folder or rename in the desktop and click Select Repository Location 
+ * Click Open in a new window
  * 
  * 
- * 
- * How to do commit and push whenever changes happen
- * 
- * 
- * 
- * 
- * How to clone from github to vscode 
  * 
  * 
  * 
